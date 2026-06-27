@@ -98,4 +98,4 @@ Assignment2/
 
 ---
 
-*Project by: [Your Name] | CEI Internship 2024*
+*Project by: [Riya Gupta] 
